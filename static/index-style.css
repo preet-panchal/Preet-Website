@@ -470,7 +470,7 @@ p {
     }
     #slideshow {
         position: relative;
-        padding-left = 0; 
+        padding-left = 0px; 
 	padding-bottom: 10px;
     }
     .navbar-collapse {
