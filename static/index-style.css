@@ -471,9 +471,13 @@ p {
     #slideshow {
         position: relative;
         padding-left = 0; 
+	padding-bottom: 10px;
     }
     .navbar-collapse {
         background-color: black;
     }    
+    .carousel-item {
+	height: 300px; 
+    }
 
 }
